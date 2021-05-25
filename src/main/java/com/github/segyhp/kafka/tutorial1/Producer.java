@@ -39,5 +39,4 @@ public class Producer {
         //flush and close data
         producer.close();
     }
-
 }
